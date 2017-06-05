@@ -5,10 +5,10 @@ body{
 }
 
 #wrapper{
-  padding: 5% 0;
+  padding: 8% 0;
   background-color: orange;
   width:960px;
-  margin:5% auto;
+  margin:8% auto;
   box-sizing: border-box;
   min-height: 80%;
 }
@@ -27,7 +27,7 @@ button{
   border-style: double;
   cursor: pointer;
   background:transparent;
-  font-size: 42px;;
+  font-size: 40px;
 }
 
 
